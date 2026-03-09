@@ -1,6 +1,6 @@
 const CACHE = 'park-cats-v1';
 const ASSETS = [
-  './park-cats.html',
+  './index.html',
   './manifest.json',
   './icon.svg'
 ];

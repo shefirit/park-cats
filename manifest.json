@@ -2,7 +2,7 @@
   "name": "חתולי הפארק",
   "short_name": "חתולי הפארק",
   "description": "מעקב אחר קולוניית חתולי הרחוב",
-  "start_url": "./park-cats.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#F5F3FF",

@@ -1,0 +1,27 @@
+{
+  "name": "חתולי הפארק",
+  "short_name": "חתולי הפארק",
+  "description": "מעקב אחר קולוניית חתולי הרחוב",
+  "start_url": "./park-cats.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5F3FF",
+  "theme_color": "#6D28D9",
+  "lang": "he",
+  "dir": "rtl",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
